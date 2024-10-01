@@ -1,0 +1,13 @@
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\bin\Debug\2212381_NHDHuy_lab5.exe.config
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\bin\Debug\2212381_NHDHuy_lab5.exe
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\bin\Debug\2212381_NHDHuy_lab5.pdb
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\bin\Debug\Newtonsoft.Json.dll
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\bin\Debug\Newtonsoft.Json.xml
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\2212381_NHDHuy_lab5.csproj.AssemblyReference.cache
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\_2212381_NHDHuy_lab5.Properties.Resources.resources
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\2212381_NHDHuy_lab5.csproj.GenerateResource.cache
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\2212381_NHDHuy_lab5.csproj.CoreCompileInputs.cache
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\2212381_NHDHuy_lab5.csproj.CopyComplete
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\2212381_NHDHuy_lab5.exe
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\2212381_NHDHuy_lab5.pdb
+Z:\2212381_NHDHuy_lab5\2212381_NHDHuy_lab5\obj\Debug\_2212381_NHDHuy_lab5.Form1.resources
