@@ -1,0 +1,9 @@
+D:\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.dll
+D:\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.pdb
